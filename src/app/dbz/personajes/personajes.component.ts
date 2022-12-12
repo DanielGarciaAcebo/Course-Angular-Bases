@@ -7,7 +7,6 @@ import {personaje} from "../interfaces/dbz.interfaces";
 @Component({
   selector: 'app-personajes',
   templateUrl: './personajes.component.html',
-  styleUrls: ['./personajes.component.scss']
 })
 export class PersonajesComponent{
 
